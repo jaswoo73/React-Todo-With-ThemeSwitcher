@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Todo-With-ThemeSwitcher/static/css/main.a8f6fc03.css",
+    "main.js": "/React-Todo-With-ThemeSwitcher/static/js/main.e5d04598.js",
+    "index.html": "/React-Todo-With-ThemeSwitcher/index.html",
+    "main.a8f6fc03.css.map": "/React-Todo-With-ThemeSwitcher/static/css/main.a8f6fc03.css.map",
+    "main.e5d04598.js.map": "/React-Todo-With-ThemeSwitcher/static/js/main.e5d04598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f6fc03.css",
+    "static/js/main.e5d04598.js"
+  ]
+}
